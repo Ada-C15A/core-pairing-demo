@@ -20,4 +20,4 @@ Solve this without ever appending or concatenating strings. (Solve this by build
 
 ## Bonus Challenge #2
 
-Solve this without using `isnumeric`.
+Solve this without using any built-in number checking methods, like `isnumeric`, or `isdigit`.
