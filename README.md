@@ -5,13 +5,13 @@ Create a function that takes in a string and returns an integer made from the di
 Run the tests with
 
 ```bash
-$ python3 -m pytest get_digits.py
+$ python3 -m pytest
 ```
 
 Run tests with print statements with
 
 ```bash
-$ python3 -m pytest -s get_digits.py
+$ python3 -m pytest -s
 ```
 
 ## Bonus Challenge #1
